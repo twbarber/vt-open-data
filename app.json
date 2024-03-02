@@ -1,5 +1,6 @@
 {
   "expo": {
+    "jsEngine": "hermes",
     "name": "vermont-open-data-viewer",
     "slug": "vermont-open-data-viewer",
     "version": "1.0.0",
@@ -25,6 +26,14 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
-  }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b9ce7d43-2704-476a-b558-ab71690e7463"
+      }
+    },
+    "owner": "twbarber",
+    "sdkVersion": "50.0.0"
+  },
+  "name": "vermont-open-data-viewer"
 }

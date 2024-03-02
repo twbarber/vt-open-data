@@ -5,4 +5,4 @@ This is a simple web application that allows users to explore and visualize open
 
 This project was meant to test React Native. It was built using the [Expo](https://expo.io/) framework.
 
-![screenshot.png](screenshot.png)
+<img src="screenshot.png" width="50%" height="50%">
